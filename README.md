@@ -8,8 +8,6 @@ HTML5
 
 CSS3
 
-JavaScript
-
 Responsividade com Media Queries
 
 # 📌 Estrutura do Projeto
