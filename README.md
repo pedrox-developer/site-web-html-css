@@ -29,14 +29,14 @@ assets/: Contém imagens e ícones utilizados no site.
 # 🎨 Design e Estilização
 
 O site utiliza um layout moderno e responsivo, baseado em variáveis CSS para facilitar a personalização:
-`
-:root {
+
+`` :root {
     --cor-primaria: #000000;
     --cor-segundaria: #F6F6F6;
     --cor-tercearia: #22D4FD;
     --cor-hover: #272727;
-}
-`
+} ``
+
 # 🔗 Links e Contatos
 
 O site inclui links para minhas redes sociais, permitindo que visitantes conheçam mais sobre meu trabalho e interajam comigo:
