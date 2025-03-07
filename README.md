@@ -79,6 +79,8 @@ Uso de flexbox para organizar layouts de forma eficiente.
 
 # Próximos Passos 📌
 
+Adicionar mais funcionalidades usando JavaScript.
+
 Explorar novas animações CSS para melhorar a experiência do usuário.
 
 Aprender e implementar React para tornar o projeto mais dinâmico.
