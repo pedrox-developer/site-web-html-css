@@ -29,14 +29,14 @@ assets/: Contém imagens e ícones utilizados no site.
 # 🎨 Design e Estilização
 
 O site utiliza um layout moderno e responsivo, baseado em variáveis CSS para facilitar a personalização:
-
-`` :root {
+```
+:root {
     --cor-primaria: #000000;
     --cor-segundaria: #F6F6F6;
     --cor-tercearia: #22D4FD;
     --cor-hover: #272727;
-} ``
-
+} 
+```
 # 🔗 Links e Contatos
 
 O site inclui links para minhas redes sociais, permitindo que visitantes conheçam mais sobre meu trabalho e interajam comigo:
@@ -48,16 +48,16 @@ Instagram
 # 📜 Estrutura do Código
 
 # HTML (index.html e about.html)
-`
+```
 <header class="cabecalho">
     <nav class="cabecalho__menu">
         <a class="cabecalho__menu__link" href="index.html">Home</a>
         <a class="cabecalho__menu__link" href="about.html">Sobre mim</a>
     </nav>
 </header>
-`
+```
 # CSS (style.css)
-`
+```
 .cabecalho {
     padding: 2% 0% 0% 18.5%;
 }
@@ -65,7 +65,7 @@ Instagram
     display: flex;
     gap: 80px;
 }
-`
+```
 # 📖 Aprendizados
 
 Este projeto tem sido uma ótima oportunidade para aplicar e aprimorar conhecimentos em desenvolvimento web. Até agora, aprendi e pratiquei:
