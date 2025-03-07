@@ -76,11 +76,8 @@ Estilização avançada com CSS, incluindo variáveis e responsividade.
 
 Uso de flexbox para organizar layouts de forma eficiente.
 
-Manipulação do DOM com JavaScript para tornar o site interativo.
 
 # Próximos Passos 📌
-
-Adicionar mais funcionalidades usando JavaScript.
 
 Explorar novas animações CSS para melhorar a experiência do usuário.
 
