@@ -8,8 +8,6 @@ HTML5
 
 CSS3
 
-JavaScript
-
 Responsividade com Media Queries
 
 # 📌 Estrutura do Projeto
@@ -44,6 +42,8 @@ O site inclui links para minhas redes sociais, permitindo que visitantes conheç
 GitHub
 
 Instagram
+
+Linkedin
 
 # 📜 Estrutura do Código
 
