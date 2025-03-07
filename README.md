@@ -8,6 +8,8 @@ HTML5
 
 CSS3
 
+JavaScript
+
 Responsividade com Media Queries
 
 # 📌 Estrutura do Projeto
@@ -43,15 +45,46 @@ GitHub
 
 Instagram
 
-Linkedin
-
 # 📜 Estrutura do Código
 
-header: Contém o menu de navegação.
+# HTML (index.html e about.html)
 
-main: Apresenta informações sobre mim e minhas habilidades.
+<header class="cabecalho">
+    <nav class="cabecalho__menu">
+        <a class="cabecalho__menu__link" href="index.html">Home</a>
+        <a class="cabecalho__menu__link" href="about.html">Sobre mim</a>
+    </nav>
+</header>
 
-footer: Rodapé com créditos e informações de contato.
+# CSS (style.css)
+
+.cabecalho {
+    padding: 2% 0% 0% 18.5%;
+}
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+}
+
+# 📖 Aprendizados
+
+Este projeto tem sido uma ótima oportunidade para aplicar e aprimorar conhecimentos em desenvolvimento web. Até agora, aprendi e pratiquei:
+
+Criação de páginas HTML estruturadas semânticas.
+
+Estilização avançada com CSS, incluindo variáveis e responsividade.
+
+Uso de flexbox para organizar layouts de forma eficiente.
+
+Manipulação do DOM com JavaScript para tornar o site interativo.
+
+# Próximos Passos 📌
+
+Adicionar mais funcionalidades usando JavaScript.
+
+Explorar novas animações CSS para melhorar a experiência do usuário.
+
+Aprender e implementar React para tornar o projeto mais dinâmico.
 
 # 📷 Demonstração
 
